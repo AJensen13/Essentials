@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<hmtl>
+<body>
+<body sytle="background-color:blue:">
+<h1>My First Heading</h1>
+
+<p>My First Paragraph.</p>
+
+<form>
+<input type="text" name="firstname"><br>
+<input type="radio" name="sex" value="male>Male<br>
+<input type="radio" name="sex" value="female">Female
+</form>
+
+</body>
+</html>
